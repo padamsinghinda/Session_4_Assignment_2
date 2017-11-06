@@ -3,8 +3,7 @@ Writing functions
 
 Program-1(words_length.py) :
 ----------------------------
-Funtions to map of list of words into a list of integers 
-representing the lengths of the corresponding words.
+Funtion to map list of words into a list of integers representing the lengths of the corresponding words.
 
 Program-2(vowel_check.py) :
 ---------------------------
