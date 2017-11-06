@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 20:08:38 2017
 
-@author: Inda
+@author: Padam Singh
 """
 
 def vowel_check(char) :

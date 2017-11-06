@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 19:51:51 2017
 
-@author: Inda
+@author: Padam Singh
 """
 
 def words_length(list_of_words) :
